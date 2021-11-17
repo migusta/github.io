@@ -1,0 +1,17 @@
+/*10 Nov css for page Azzi*/
+
+body {
+	background-color: cyan;	
+	background-image: url("bg.jpeg");
+	text-align: center;
+}
+img{
+	width:50%;
+	border: 5px green solid;
+}
+h1{
+	font-family: 'Mochiy Pop One', sans-serif;
+	padding:50px;
+/*	background-image: url("star.jpeg");*/
+background-color: white
+}
